@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FanaByte Search In Category\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-08 13:05+0000\n"
+"PO-Revision-Date: 2023-06-02 13:29+0330\n"
+"Last-Translator: \n"
+"Language-Team: English (UK)\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Loco-Version: 2.5.8; wp-5.9.1\n"
+"X-Domain: fanabyte-search-in-category\n"
+
+#. Option 3 description
+msgid "Adds a search field after the dropdown that filters the dropdown elements"
+msgstr "Adds a search field after the dropdown that filters the dropdown elements"
+
+#. Option 2 description
+msgid "Adds a search field after the taxonomy title that filters the list below"
+msgstr "Adds a search field after the taxonomy title that filters the list below"
+
+#. Option 1 description
+msgid "Adds a search tab to taxonomies after Most Used"
+msgstr "Adds a search tab to taxonomies after Most Used"
+
+#. Name of the plugin
+msgid "FanaByte Search In Category"
+msgstr "FanaByte Search In Category"
+
+#. Author of the plugin
+msgid "FanaByte"
+msgstr "FanaByte"
+
+#. Label of admin menu
+msgid "Category search"
+msgstr "Category Search"
+
+#. Option 3 title
+msgid "Dropdowns(author) search"
+msgstr "Dropdowns(author) search"
+
+#. Go label
+msgid "Go"
+msgstr "Go"
+
+#. Author URI of the plugin
+msgid "https://fanabyte.com"
+msgstr "https://fanabyte.com"
+
+#. URI of the plugin
+msgid "https://fanabyte.com/themes-plugins/plugins/fanabyte-plugins/fanabyte-search-in-category/"
+msgstr "https://fanabyte.com/themes-plugins/plugins/fanabyte-plugins/fanabyte-search-in-category/"
+
+#. Option 4 description
+msgid "If a found category has subcategories, those will be shown"
+msgstr "If a found category has subcategories, those will be shown"
+
+#. Settings page description
+msgid "Manage the places where you want to have search"
+msgstr "Manage the places where you want to have search"
+
+#. Reset Search label
+msgid "Reset Search Results"
+msgstr "Reset Search Results"
+
+#. Search label
+msgid "Search"
+msgstr "Search"
+
+#. Option 4 title
+msgid "Show subcategories when results found"
+msgstr "Show subcategories when results found"
+
+#. Option 2 title
+msgid "Taxonomy(Categories) In-field search"
+msgstr "Taxonomy(Categories) In-field search"
+
+#. Option 1 title
+msgid "Taxonomy(Categories) Search Tab"
+msgstr "Taxonomy(Categories) Search Tab"
+
+#. Description of the plugin
+msgid "This plugin adds a search feature to content and product categories"
+msgstr "This plugin adds a search feature to content and product categories"
+
+#. Settings page title
+msgid "FanaByte Search In Category Settings"
+msgstr "FanaByte Search In Category Settings"
